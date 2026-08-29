@@ -1,19 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi,%20I'm%20Basti%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Basti%20✨&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vibecoding%20small%20tools%20under%20a%20night%20sky&descAlignY=54&descSize=16&descColor=C9A7FF" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9A7FF&center=true&vCenter=true&width=520&lines=Building+small+tools+for+myself+%E2%9C%A8;Desktop+apps+%2B+dashboards+%2B+data;Currently+working+on+SkyBlock+AH+Analytics+%F0%9F%8C%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C9A7FF&center=true&vCenter=true&width=520&lines=Building+small+tools+for+myself+%E2%9C%A8;Desktop+apps+%2B+dashboards+%2B+data;Currently+working+on+SkyBlock+AH+Analytics+%F0%9F%8C%99" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bastistern123&label=Profile+Views&color=302b63&style=for-the-badge" />
 </p>
 
 <p align="center">✦ ⋆ ˚｡⋆ ᴀ ꜰᴇᴡ ᴏꜰ ᴛʜᴇ ᴛʜɪɴɢꜱ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ ⋆｡˚ ⋆ ✦</p>
 
 ### 🌌 What I'm building
 
-| Project | Description |
-|---|---|
-| ⭐ **SkyBlock AH Analytics** | Dashboard for Hypixel SkyBlock auction house data |
-| ⭐ **mc-archive** | Local NameMC-style archive for Minecraft profiles & friends |
+<table align="center">
+  <tr>
+    <td>⭐</td>
+    <td><b>SkyBlock AH Analytics</b></td>
+    <td>Dashboard for Hypixel SkyBlock auction house data</td>
+  </tr>
+  <tr>
+    <td>⭐</td>
+    <td><b>mc-archive</b></td>
+    <td>Local NameMC-style archive for Minecraft profiles & friends</td>
+  </tr>
+</table>
+
+<p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
 
 ### 🪐 I Know
 
@@ -36,6 +50,19 @@
 
 <p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
 
+<details>
+<summary><b>🔭 A little more about me</b></summary>
+<br>
+
+- 🌙 Vibecoding my way through side projects, HTML/CSS first
+- 🛠️ Currently deep in **SkyBlock AH Analytics**
+- 🎧 Probably listening to something on [Spotify](https://open.spotify.com/user/bastistern123) while I work
+- ✨ Always down to talk about whatever I'm building — hit me up on Discord
+
+</details>
+
+<p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
+
 ### 🌠 Find me
 
 <p align="left">
@@ -48,5 +75,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 </p>
