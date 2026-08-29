@@ -12,7 +12,7 @@
 
 <p align="center"><sub>ᴀ ꜰᴇᴡ ᴏꜰ ᴛʜᴇ ᴛʜɪɴɢꜱ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ</sub></p>
 
-### 🌌 What I'm building
+### 🌌 What I'm building Currently
 
 <table align="center">
   <tr>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🪐 I Know
+### 🪐 Stuff I Know
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-302b63?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -50,7 +50,7 @@
 
 - 🌙 Vibecoding my way through side projects, HTML/CSS first
 - 🛠️ Currently deep in **SkyBlock AH Analytics**
-- 🎧 Probably listening to something on [Spotify](https://open.spotify.com/user/bastistern123) while I work
+- 🎧 Probably listening to something on [YT Music] while I work
 
 </details>
 
