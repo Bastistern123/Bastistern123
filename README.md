@@ -28,11 +28,6 @@
 ### ⭐ Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bastistern123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bastistern123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Bastistern123&theme=highcontrast&hide_border=true&background=00000000" />
 </p>
 
