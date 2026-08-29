@@ -36,6 +36,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bastistern123&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bastistern123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bastistern123&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bastistern123/Bastistern123/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a3e,100:1e1e2e&height=100&section=footer" />
 </p>
