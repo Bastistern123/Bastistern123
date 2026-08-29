@@ -33,11 +33,6 @@
   <img src="https://img.shields.io/badge/HTML5-302b63?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Vibecoder-302b63?style=for-the-badge&logo=sparkles&logoColor=C9A7FF" />
-</p>
-
 ---
 
 ### 📊 Stats
@@ -55,7 +50,6 @@
 - 🌙 Vibecoding my way through side projects, HTML/CSS first
 - 🛠️ Currently deep in **SkyBlock AH Analytics**
 - 🎧 Probably listening to something on [Spotify](https://open.spotify.com/user/bastistern123) while I work
-- ✨ Always down to talk about whatever I'm building — hit me up on Discord
 
 </details>
 
