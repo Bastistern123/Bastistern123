@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
+---
+
 ### 📊 Stats
 
 <p align="center">
