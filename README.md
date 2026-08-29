@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C9A7FF&center=true&vCenter=true&width=520&lines=Building+small+tools+for+myself+%E2%9C%A8;Desktop+apps+%2B+dashboards+%2B+data;Currently+working+on+SkyBlock+AH+Analytics+%F0%9F%8C%99" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bastistern123&label=Profile+Views&color=302b63&style=for-the-badge" />
-</p>
 
 <p align="center"><sub>ᴀ ꜰᴇᴡ ᴏꜰ ᴛʜᴇ ᴛʜɪɴɢꜱ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ</sub></p>
 
