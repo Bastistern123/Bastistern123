@@ -15,11 +15,14 @@
 | ⭐ **SkyBlock AH Analytics** | Dashboard for Hypixel SkyBlock auction house data |
 | ⭐ **mc-archive** | Local NameMC-style archive for Minecraft profiles & friends |
 
-### 🪐 Tech
+### 🪐 I Know
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-302b63?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Vibecoder-302b63?style=for-the-badge&logo=sparkles&logoColor=C9A7FF" />
 </p>
 
