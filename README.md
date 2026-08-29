@@ -12,7 +12,6 @@
 
 | Project | Description |
 |---|---|
-| ⭐ **Lyra** | Desktop AI companion app |
 | ⭐ **SkyBlock AH Analytics** | Dashboard for Hypixel SkyBlock auction house data |
 | ⭐ **mc-archive** | Local NameMC-style archive for Minecraft profiles & friends |
 
