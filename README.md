@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9A7FF&center=true&vCenter=true&width=520&lines=Building+small+tools+for+myself+%E2%9C%A8;Desktop+apps+%2B+dashboards+%2B+data;Currently+working+on+Lyra+%F0%9F%8C%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9A7FF&center=true&vCenter=true&width=520&lines=Building+small+tools+for+myself+%E2%9C%A8;Desktop+apps+%2B+dashboards+%2B+data;Currently+working+on+SkyBlock+AH+Analytics+%F0%9F%8C%99" alt="Typing SVG" />
 </p>
 
 <p align="center">✦ ⋆ ˚｡⋆ ᴀ ꜰᴇᴡ ᴏꜰ ᴛʜᴇ ᴛʜɪɴɢꜱ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ ⋆｡˚ ⋆ ✦</p>
@@ -35,6 +35,19 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bastistern123&theme=midnight-purple&hide_border=true&background=00000000" />
+</p>
+
+<p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
+
+### 🌠 Find me
+
+<p align="left">
+  <a href="https://discord.com/users/Bastistern123">
+    <img src="https://img.shields.io/badge/Discord-@Bastistern123-302b63?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  </a>
+  <a href="https://open.spotify.com/user/bastistern123">
+    <img src="https://img.shields.io/badge/Spotify-Profile-302b63?style=for-the-badge&logo=spotify&logoColor=1DB954" />
+  </a>
 </p>
 
 <p align="center">
