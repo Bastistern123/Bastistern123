@@ -9,7 +9,7 @@
 
 <p align="center"><sub>ᴀ ꜰᴇᴡ ᴏꜰ ᴛʜᴇ ᴛʜɪɴɢꜱ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ</sub></p>
 
-### 🌌 What I'm building Currently
+### 🌌 What I'm building
 
 <table align="center">
   <tr>
@@ -24,7 +24,7 @@
 
 ---
 
-### 🪐 Stuff I Know
+### 🪐 I Know
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-302b63?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -45,7 +45,7 @@
 <summary><b>🔭 A little more about me</b></summary>
 <br>
 
-- 🌙 Vibecoding my way through side projects, HTML/CSS first
+- 🌙 Vibecoding my way through side projects, Stuff i dont know
 - 🛠️ Currently deep in **SkyBlock AH Analytics**
 - 🎧 Probably listening to something on [YT Music] while I work
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 🌠 Find me
+### 🌠 Socials
 
 <p align="left">
   <a href="https://discord.com/users/Bastistern123">
