@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Basti%20✨&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vibecoding%20small%20tools%20under%20a%20night%20sky&descAlignY=54&descSize=16&descColor=C9A7FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Basti%20✨&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vibecoding%20small%20tools&descAlignY=54&descSize=16&descColor=C9A7FF" />
 </p>
 
 <p align="center">
@@ -7,17 +7,16 @@
 </p>
 
 
-<p align="center"><sub>ᴀ ꜰᴇᴡ ᴏꜰ ᴛʜᴇ ᴛʜɪɴɢꜱ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ</sub></p>
 
 ### 🌌 What I'm building
 
 <table align="center">
   <tr>
     <td><b>SkyBlock AH Analytics</b></td>
-    <td>Dashboard for Hypixel SkyBlock auction house data</td>
+    <td>Dashboard for Tracking Hypixel SkyBlock auction house data (Coop)</td>
   </tr>
   <tr>
-    <td><b>mc-archive</b></td>
+    <td><b>Mc-Archive</b></td>
     <td>Local NameMC-style archive for Minecraft profiles & friends</td>
   </tr>
 </table>
@@ -28,7 +27,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-302b63?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS-302b63?style=for-the-badge&logo=css&logoColor=1572B6" />
 </p>
 
 ---
@@ -45,8 +44,8 @@
 <summary><b>🔭 A little more about me</b></summary>
 <br>
 
-- 🌙 Vibecoding my way through side projects, Stuff i dont know
-- 🛠️ Currently deep in **SkyBlock AH Analytics**
+- 🌙 Vibecoding my way through side projects, stuff i dont know
+- 🛠️ Mostly Working on **SkyBlock AH Analytics**
 - 🎧 Probably listening to something on [YT Music] while I work
 
 </details>
@@ -60,7 +59,7 @@
     <img src="https://img.shields.io/badge/Discord-@Bastistern123-302b63?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
   <a href="https://open.spotify.com/user/bastistern123">
-    <img src="https://img.shields.io/badge/Spotify-Profile-302b63?style=for-the-badge&logo=spotify&logoColor=1DB954" />
+    <img src="https://img.shields.io/badge/Spotify-@Bastistern123-302b63?style=for-the-badge&logo=spotify&logoColor=1DB954" />
   </a>
 </p>
 
