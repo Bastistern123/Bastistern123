@@ -18,10 +18,9 @@
 ### 🪐 Tech
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-302b63?style=for-the-badge&logo=typescript&logoColor=C9A7FF" />
-  <img src="https://img.shields.io/badge/JavaScript-302b63?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-302b63?style=for-the-badge&logo=nodedotjs&logoColor=8CC84B" />
-  <img src="https://img.shields.io/badge/Python-302b63?style=for-the-badge&logo=python&logoColor=C9A7FF" />
+  <img src="https://img.shields.io/badge/HTML5-302b63?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Vibecoder-302b63?style=for-the-badge&logo=sparkles&logoColor=C9A7FF" />
 </p>
 
 <p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
@@ -34,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bastistern123&theme=midnight-purple&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=Bastistern123&theme=highcontrast&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
