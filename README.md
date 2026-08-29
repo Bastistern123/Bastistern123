@@ -10,24 +10,22 @@
   <img src="https://komarev.com/ghpvc/?username=Bastistern123&label=Profile+Views&color=302b63&style=for-the-badge" />
 </p>
 
-<p align="center">✦ ⋆ ˚｡⋆ ᴀ ꜰᴇᴡ ᴏꜰ ᴛʜᴇ ᴛʜɪɴɢꜱ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ ⋆｡˚ ⋆ ✦</p>
+<p align="center"><sub>ᴀ ꜰᴇᴡ ᴏꜰ ᴛʜᴇ ᴛʜɪɴɢꜱ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ</sub></p>
 
 ### 🌌 What I'm building
 
 <table align="center">
   <tr>
-    <td>⭐</td>
     <td><b>SkyBlock AH Analytics</b></td>
     <td>Dashboard for Hypixel SkyBlock auction house data</td>
   </tr>
   <tr>
-    <td>⭐</td>
     <td><b>mc-archive</b></td>
     <td>Local NameMC-style archive for Minecraft profiles & friends</td>
   </tr>
 </table>
 
-<p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
+---
 
 ### 🪐 I Know
 
@@ -40,15 +38,15 @@
   <img src="https://img.shields.io/badge/Vibecoder-302b63?style=for-the-badge&logo=sparkles&logoColor=C9A7FF" />
 </p>
 
-<p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
+---
 
-### ⭐ Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Bastistern123&theme=highcontrast&hide_border=true&background=00000000" />
 </p>
 
-<p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
+---
 
 <details>
 <summary><b>🔭 A little more about me</b></summary>
@@ -61,7 +59,7 @@
 
 </details>
 
-<p align="center">˚ ༘ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ✦ ⋆｡˚ ⋆ ✦ ⋆｡˚ ˚ ༘</p>
+---
 
 ### 🌠 Find me
 
